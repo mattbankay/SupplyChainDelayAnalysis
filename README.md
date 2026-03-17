@@ -75,7 +75,7 @@ To ensure accurate analysis, several transformations and derived metrics were cr
 
 ---
 
-## ⚠️ Data Quality Issue & Adjustment
+##  Data Quality Issue & Adjustment
 
 A significant anomaly was identified during analysis:
 
