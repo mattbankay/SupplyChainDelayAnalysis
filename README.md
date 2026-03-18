@@ -268,3 +268,5 @@ This enables proactive management of delivery performance
 This enables proactive management of delivery performance
 
 --
+Dashboard Preview: 
+<img width="1855" height="1055" alt="Screenshot 2026-03-17 043848" src="https://github.com/user-attachments/assets/0b791c91-3759-4ec0-ac7c-e2c59abf62c6" />
